@@ -4,6 +4,15 @@ Main Goal: to practice analysing and wrangling real-worl data and writing Post i
 
 Description: A case study using Airbnb data from the City of Berlin, Germany as part of the project for Udacity DS course.
 
+In this project I'm going to apply CRISP-DM(CRoss Industry Standard Process Data mining) which contains 6 steps:
+
+Business Undestanding.
+Data Understanding.
+Preparing Data.
+Data Modeling.
+Evaluate Results.
+Deployment.
+
 
 Project files:
 1. Jupyter Notebook with Wrangling , EDA, Modeling and  Visualization of  key resuts
