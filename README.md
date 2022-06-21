@@ -7,7 +7,7 @@ Description: A case study using Airbnb data from the City of Berlin, Germany as 
 
 Project files:
 1. Jupyter Notebook with Wrangling , EDA, Modeling and  Visualization of  key resuts
-2. data sets
+2. data files for the project in data folder
 
 And finally as a result of this project, I've written [post on medium](https://medium.com/@kateisaieva/using-ml-prediction-to-maximise-income-with-airbnb-d84a36d86fb0). Enjoy!
 
