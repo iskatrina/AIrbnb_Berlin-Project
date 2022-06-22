@@ -11,10 +11,10 @@ Airbnb pricing is important to get right, even small differences in prices can m
 
 This analysis is all about how to best price Airbnb accommodation and increase your monthly earnings.
 
-### Q1. Which Airbnb listings earn the most in Berlin?
-### Q2. What Characteristics (Features) impact the price of Airnbnb listing in Berlin the most? 
-### Q3. What highly rated neighbourhoods in Berlin have to offer ? Whhat description of highly priced places tell the customer?
-### Q4. What are those extraordinary highly profitable units and what makes them triple their monthly earnings in comparison to the rest nicely located listings? 
+ Q1. Which Airbnb listings earn the most in Berlin?
+ Q2. What Characteristics (Features) impact the price of Airnbnb listing in Berlin the most? 
+ Q3. What highly rated neighbourhoods in Berlin have to offer ? Whhat description of highly priced places tell the customer?
+ Q4. What are those extraordinary highly profitable units and what makes them triple their monthly earnings in comparison to the rest nicely located listings? 
 
 Main Goal: to practice analysing and wrangling real-worl data and writing Post in Medium as a result of Analysis.
 
