@@ -45,4 +45,8 @@ And finally WordCloud algorythms could help generate understanding about the mos
 
 And finally as a result of this project, I've written post on medium https://medium.com/p/d84a36d86fb0/edit . Enjoy reading!
 
+Acknowledgment:
+
+For this project, I used Inside Airbnb (http://insideairbnb.com/get-the-data/) data set scraped on 20 March, 2022, on the city of Belin, Germany. It contains information on all Berlin Airbnb listings that were live on the site on that date (over 17000 listings). Period ('2021–12–17', '2022–12–18')
+
 Thanks you! :)
