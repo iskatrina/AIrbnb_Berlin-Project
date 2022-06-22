@@ -33,7 +33,16 @@ Deployment.
 Project files:
 1. Jupyter Notebook with Wrangling , EDA, Modeling and  Visualization of  key resuts
 2. data files for the project in data folder
+3. requirenments.txt
 
-And finally as a result of this project, I've written [post on medium](https://medium.com/@kateisaieva/using-ml-prediction-to-maximise-income-with-airbnb-d84a36d86fb0). Enjoy!
+Conclusion:
 
-Thanks for reading! :)
+By using  Statistics Analysis helped to generate valuable data-driven solutions/suggestions  for uplifting price for a rental unite, which are applicable for different types of an audience - from big investors, as well as flt owners and those who would like to get some extra cash while away from a town by renting one of the rooms.
+XGBoost modeling helped generate valuable insights what else apart from location and type of accomodation can help you increase your earnings. Accuracy of XGBoost model overperformed simple Linear Regression model.
+Geomaps helped present the result in interactive and engaging way and show avg price per area on an map.
+And finally WordCloud algorythms could help generate understanding about the most desirable and at the same time highly priced places for which visitor glad to pay. 
+
+
+And finally as a result of this project, I've written post on medium https://medium.com/p/d84a36d86fb0/edit . Enjoy reading!
+
+Thanks you! :)
